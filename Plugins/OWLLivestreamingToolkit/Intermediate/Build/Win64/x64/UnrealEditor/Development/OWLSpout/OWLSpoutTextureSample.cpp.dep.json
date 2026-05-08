@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ci\\tmp\\plugins\\owllivestreamingtoolkit\\source\\owlspout\\private\\mediaframework\\input\\owlspouttexturesample.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ci\\tmp\\intermediate\\build\\win64\\x64\\buildtempeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\ci\\tmp\\plugins\\owllivestreamingtoolkit\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\owlspout\\definitions.owlspout.h",
+            "c:\\ci\\tmp\\plugins\\owllivestreamingtoolkit\\source\\owlspout\\public\\mediaframework\\input\\owlspouttexturesample.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\media\\public\\imediatexturesample.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\media\\public\\imediatimesource.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\rendercore\\public\\hdrhelper.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\core\\public\\colormanagement\\colormanagementdefines.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\core\\public\\colormanagement\\colorspace.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\rendercore\\public\\mediashaders.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\rendercore\\public\\shaderparameterstruct.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\rendercore\\public\\rendergraphresources.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\rhi\\public\\rhitransientresourceallocator.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\rendercore\\public\\rendergraphparameter.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\rendercore\\public\\rendergraphresources.inl",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\mediautils\\public\\mediaobjectpool.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

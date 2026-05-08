@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OWLPackaging-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/CI/tmp/Intermediate/Build/Win64/x64/BuildTempEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/CI/tmp/Plugins/OWLLivestreamingToolkit/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/OWLPackaging/Module.OWLPackaging.cpp.obj"
+"C:/CI/tmp/Plugins/OWLLivestreamingToolkit/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/OWLPackaging/OWLPackagingData.cpp.obj"
+"C:/CI/tmp/Plugins/OWLLivestreamingToolkit/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/OWLPackaging/OWLPackagingModule.cpp.obj"
+"C:/CI/tmp/Plugins/OWLLivestreamingToolkit/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/OWLPackaging/Default.rc2.res"
+/OUT:"C:/CI/tmp/Plugins/OWLLivestreamingToolkit/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/OWLPackaging/UnrealEditor-OWLPackaging-Win64-DebugGame.lib"

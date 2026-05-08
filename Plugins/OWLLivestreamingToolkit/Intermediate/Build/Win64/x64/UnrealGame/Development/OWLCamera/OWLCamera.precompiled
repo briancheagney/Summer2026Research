@@ -1,0 +1,14 @@
+{
+	"OutputFiles": [
+		"Module.OWLCamera.cpp.obj",
+		"OWLCameraModule.cpp.obj",
+		"OWLCaptureComponent.cpp.obj",
+		"OWLCineCamCapture.cpp.obj",
+		"OWLSnapshotNotifier.cpp.obj",
+		"OWLSnapshotSettings.cpp.obj",
+		"OWLSnapshotUtilities.cpp.obj",
+		"OWLStereoConvergencePlane.cpp.obj",
+		"OWLViewportCapture.cpp.obj",
+		"OWLViewportPreview.cpp.obj"
+	]
+}

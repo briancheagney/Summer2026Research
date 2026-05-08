@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OWLPackaging.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/CI/tmp/Intermediate/Build/Win64/x64/BuildTempEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:/CI/tmp/Plugins/OWLLivestreamingToolkit/Intermediate/Build/Win64/x64/UnrealEditor/Development/OWLPackaging/Module.OWLPackaging.cpp.obj"
+"C:/CI/tmp/Plugins/OWLLivestreamingToolkit/Intermediate/Build/Win64/x64/UnrealEditor/Development/OWLPackaging/OWLPackagingData.cpp.obj"
+"C:/CI/tmp/Plugins/OWLLivestreamingToolkit/Intermediate/Build/Win64/x64/UnrealEditor/Development/OWLPackaging/OWLPackagingModule.cpp.obj"
+"C:/CI/tmp/Plugins/OWLLivestreamingToolkit/Intermediate/Build/Win64/x64/UnrealEditor/Development/OWLPackaging/Default.rc2.res"
+/OUT:"C:/CI/tmp/Plugins/OWLLivestreamingToolkit/Intermediate/Build/Win64/x64/UnrealEditor/Development/OWLPackaging/UnrealEditor-OWLPackaging.lib"

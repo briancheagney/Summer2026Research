@@ -1,0 +1,13 @@
+{
+	"OutputFiles": [
+		"Module.OWLMedia.cpp.obj",
+		"FFastRunningMean.cpp.obj",
+		"FFFmpegWriteRunnable.cpp.obj",
+		"FOWLEncoderProfiles.cpp.obj",
+		"OWLFFmpegOutput.cpp.obj",
+		"OWLMediaModule.cpp.obj",
+		"OWLMediaOutput.cpp.obj",
+		"OWLMediaOutputComponent.cpp.obj",
+		"OWLVideoEncoder.cpp.obj"
+	]
+}

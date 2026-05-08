@@ -1,0 +1,22 @@
+{
+	"OutputFiles": [
+		"Module.OWLNDI.cpp.obj",
+		"NDIModule.cpp.obj",
+		"OWLNDIFinder.cpp.obj",
+		"OWLNDIReceiver.cpp.obj",
+		"OWLNDIReceiverManager.cpp.obj",
+		"OWLNDISender.cpp.obj",
+		"OWLNDISenderController.cpp.obj",
+		"OWLNDISenderManager.cpp.obj",
+		"OWLNDISoundWave.cpp.obj",
+		"OWLNDIAudioSample.cpp.obj",
+		"OWLNDIMediaPlayer.cpp.obj",
+		"OWLNDIMediaPlayerFactory.cpp.obj",
+		"OWLNDIMediaSource.cpp.obj",
+		"OWLNDIMediaSourceActions.cpp.obj",
+		"OWLNDIMediaTracks.cpp.obj",
+		"OWLNDITextureSample.cpp.obj",
+		"OWLNDIMediaCapture.cpp.obj",
+		"OWLNDIMediaOutput.cpp.obj"
+	]
+}

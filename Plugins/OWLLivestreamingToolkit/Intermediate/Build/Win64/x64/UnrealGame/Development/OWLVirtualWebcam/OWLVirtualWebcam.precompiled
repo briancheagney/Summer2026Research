@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"Module.OWLVirtualWebcam.cpp.obj",
+		"OWLVirtualWebcamModule.cpp.obj",
+		"OWLVirtualWebcamOutput.cpp.obj"
+	]
+}

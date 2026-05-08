@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"Module.OWLScreenCapture.gen.cpp.obj",
+		"FScreenCaptureHelpers.cpp.obj",
+		"OWLScreenCapture.cpp.obj",
+		"OWLScreenCaptureModule.cpp.obj",
+		"OWLScreenCapturer.cpp.obj",
+		"WinRTCapture.cpp.obj"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"OutputFiles": [
+		"Module.LivestreamingToolkit.cpp.obj",
+		"LivestreamingToolkitModule.cpp.obj",
+		"OWLBlueprintFunctionLibrary.cpp.obj",
+		"OWLSettings.cpp.obj",
+		"ViewportSettings.cpp.obj",
+		"NDIInstallerLaunch.cpp.obj",
+		"OWLSaveGame.cpp.obj",
+		"AuthCoordinator.cpp.obj",
+		"AuthDelegates.cpp.obj",
+		"AuthLoader.cpp.obj",
+		"AuthSharedSettings.cpp.obj",
+		"AuthValidator.cpp.obj",
+		"MeteredMinsStore.cpp.obj",
+		"MeteredUsageWorker.cpp.obj",
+		"OfflineAuth.cpp.obj",
+		"OWLLaunchNode.cpp.obj",
+		"PluginUpdate.cpp.obj",
+		"OWLTelemetry.cpp.obj",
+		"ImageArray.cpp.obj",
+		"OWLFileInput.cpp.obj",
+		"OWLHelpers.cpp.obj",
+		"OWLImageInput.cpp.obj",
+		"OWLMRQContentManagement.cpp.obj",
+		"OWLWatermarkWriter.cpp.obj",
+		"OWLWindowsPlatformMisc.cpp.obj"
+	]
+}

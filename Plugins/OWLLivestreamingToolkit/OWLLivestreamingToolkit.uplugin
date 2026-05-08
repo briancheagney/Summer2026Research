@@ -1,0 +1,153 @@
+﻿{
+    "EngineVersion":  "5.7.0",
+    "FileVersion":  3,
+    "Version":  1,
+    "VersionName":  "0.381.0",
+    "FriendlyName":  "Off World Live Media Production Toolkit",
+    "Description":  "Tools for media content creation including live-streaming, compositing and 360 degree rendering",
+    "Category":  "Media Content Creation",
+    "CreatedBy":  "OffWorldLive",
+    "CreatedByURL":  "https://offworld.live/",
+    "DocsURL":  "https://knowledge.offworld.live/",
+    "MarketplaceURL":  "com.epicgames.launcher://ue/marketplace/product/92307b570d474fbc87592b973ce82e3b",
+    "SupportURL":  "support@offworld.live",
+    "CanContainContent":  true,
+    "IsBetaVersion":  false,
+    "SupportedTargetPlatforms":  [
+                                     "Win64"
+                                 ],
+    "Modules":  [
+                    {
+                        "Name":  "LivestreamingToolkit",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "Default",
+                        "WhitelistPlatforms":  [
+                                                   "Win64"
+                                               ]
+                    },
+                    {
+                        "Name":  "OWLMedia",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "None",
+                        "WhitelistPlatforms":  [
+                                                   "Win64"
+                                               ]
+                    },
+                    {
+                        "Name":  "OWLCamera",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "Default",
+                        "WhitelistPlatforms":  [
+                                                   "Win64"
+                                               ]
+                    },
+                    {
+                        "Name":  "OWL360Camera",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "Default",
+                        "WhitelistPlatforms":  [
+                                                   "Win64"
+                                               ]
+                    },
+                    {
+                        "Name":  "OWLMRQPipeline",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "None",
+                        "WhitelistPlatforms":  [
+                                                   "Win64"
+                                               ]
+                    },
+                    {
+                        "Name":  "OWLSpout",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "Default",
+                        "WhitelistPlatforms":  [
+                                                   "Win64"
+                                               ]
+                    },
+                    {
+                        "Name":  "OWLNDI",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "None",
+                        "WhitelistPlatforms":  [
+                                                   "Win64"
+                                               ]
+                    },
+                    {
+                        "Name":  "LivestreamingToolkitEditor",
+                        "Type":  "Editor",
+                        "LoadingPhase":  "PostEngineInit"
+                    },
+                    {
+                        "Name":  "LivestreamingToolkitShaders",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "PostConfigInit"
+                    },
+                    {
+                        "Name":  "OWLVirtualWebcam",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "None",
+                        "WhitelistPlatforms":  [
+                                                   "Win64"
+                                               ]
+                    },
+                    {
+                        "Name":  "OWLScreenCapture",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "Default",
+                        "WhitelistPlatforms":  [
+                                                   "Win64"
+                                               ]
+                    },
+                    {
+                        "Name":  "OWLComposure",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "Default",
+                        "WhitelistPlatforms":  [
+                                                   "Win64"
+                                               ]
+                    },
+                    {
+                        "Name":  "OWLPackaging",
+                        "Type":  "Runtime",
+                        "LoadingPhase":  "PreEarlyLoadingScreen"
+                    }
+                ],
+    "Plugins":  [
+                    {
+                        "Name":  "CompositeCore",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "MediaPlate",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "MediaIOFramework",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "Composure",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "LensComponent",
+                        "Enabled":  true
+                    },
+                    {
+                        "Name":  "HardwareEncoders",
+                        "Optional":  true,
+                        "Enabled":  false
+                    },
+                    {
+                        "Name":  "MovieRenderPipeline",
+                        "Optional":  true,
+                        "Enabled":  false
+                    },
+                    {
+                        "Name":  "OpenColorIO",
+                        "Enabled":  true
+                    }
+                ],
+    "Installed":  true
+}

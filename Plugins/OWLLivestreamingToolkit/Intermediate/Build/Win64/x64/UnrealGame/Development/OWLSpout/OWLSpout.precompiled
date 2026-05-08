@@ -1,0 +1,19 @@
+{
+	"OutputFiles": [
+		"Module.OWLSpout.cpp.obj",
+		"OWLSpoutReceiver.cpp.obj",
+		"OWLSpoutReceiverManager.cpp.obj",
+		"OWLSpoutSender.cpp.obj",
+		"OWLSpoutSenderController.cpp.obj",
+		"OWLSpoutSenderManager.cpp.obj",
+		"SpoutModule.cpp.obj",
+		"OWLSpoutMediaPlayer.cpp.obj",
+		"OWLSpoutMediaPlayerFactory.cpp.obj",
+		"OWLSpoutMediaSource.cpp.obj",
+		"OWLSpoutMediaSourceActions.cpp.obj",
+		"OWLSpoutTextureSample.cpp.obj",
+		"SpoutMediaTracks.cpp.obj",
+		"OWLSpoutMediaCapture.cpp.obj",
+		"OWLSpoutMediaOutput.cpp.obj"
+	]
+}

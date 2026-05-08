@@ -1,0 +1,16 @@
+{
+	"OutputFiles": [
+		"Module.LivestreamingToolkitShaders.cpp.obj",
+		"LivestreamingToolkitShaders.cpp.obj",
+		"OWLMediaUtils.cpp.obj",
+		"StereoRenderingShaderDeclaration.cpp.obj",
+		"BloomDownsampleArrayResource.cpp.obj",
+		"BloomShaderDeclaration.cpp.obj",
+		"CubeMapOutputDeclaration.cpp.obj",
+		"DomeShaderDeclaration.cpp.obj",
+		"EquiShaderDeclaration.cpp.obj",
+		"FOWL360EstimateShader.cpp.obj",
+		"SnapshotShaderDeclaration.cpp.obj",
+		"StereographicDeclaration.cpp.obj"
+	]
+}

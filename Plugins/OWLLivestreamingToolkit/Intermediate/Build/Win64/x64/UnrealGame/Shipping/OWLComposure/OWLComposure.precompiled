@@ -1,0 +1,18 @@
+{
+	"OutputFiles": [
+		"Module.OWLComposure.cpp.obj",
+		"OWLBaseComp.cpp.obj",
+		"OWLCGCaptureComponent.cpp.obj",
+		"OWLCGElement.cpp.obj",
+		"OWLCGMatte.cpp.obj",
+		"OWLComposure.cpp.obj",
+		"OWLNDIInputPass.cpp.obj",
+		"OWLNDIOutputPass.cpp.obj",
+		"OWLPlaneTransformPass.cpp.obj",
+		"OWLScreenCaptureInputPass.cpp.obj",
+		"OWLSpoutInputPass.cpp.obj",
+		"OWLSpoutOutputPass.cpp.obj",
+		"OWLUIInputPass.cpp.obj",
+		"OWLVideoPlanePlacement.cpp.obj"
+	]
+}

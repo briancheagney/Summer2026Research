@@ -1,0 +1,29 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ci\\tmp\\plugins\\owllivestreamingtoolkit\\source\\owl360camera\\private\\detailscustomizations\\owlmultirotatorcustomisation.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ci\\tmp\\intermediate\\build\\win64\\x64\\buildtempeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\ci\\tmp\\plugins\\owllivestreamingtoolkit\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\owl360camera\\definitions.owl360camera.h",
+            "c:\\ci\\tmp\\plugins\\owllivestreamingtoolkit\\source\\owl360camera\\private\\detailscustomizations\\owlmultirotatorcustomisation.h",
+            "c:\\ci\\tmp\\plugins\\owllivestreamingtoolkit\\source\\owl360camera\\public\\datatypes\\owlmultirotator.h",
+            "c:\\ci\\tmp\\plugins\\owllivestreamingtoolkit\\intermediate\\build\\win64\\unrealeditor\\inc\\owl360camera\\uht\\owlmultirotator.generated.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\slate\\public\\widgets\\input\\snumericentrybox.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\slate\\public\\widgets\\input\\sspinbox.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\slate\\public\\widgets\\colors\\scolorblock.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\editor\\propertyeditor\\public\\idetailgroup.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\editor\\propertyeditor\\public\\detailcategorybuilder.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\editor\\propertyeditor\\public\\idetailcustomnodebuilder.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\editor\\propertyeditor\\public\\detailbuildertypes.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\editor\\propertyeditor\\public\\propertyeditorcopypaste.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\editor\\propertyeditor\\public\\detaillayoutbuilder.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\editor\\propertyeditor\\public\\idetailpropertyrow.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\editor\\propertyeditor\\public\\detailwidgetrow.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\editor\\propertyeditor\\public\\idetailchildrenbuilder.h",
+            "c:\\epic\\ue_5.7\\engine\\source\\runtime\\slate\\public\\widgets\\scanvas.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

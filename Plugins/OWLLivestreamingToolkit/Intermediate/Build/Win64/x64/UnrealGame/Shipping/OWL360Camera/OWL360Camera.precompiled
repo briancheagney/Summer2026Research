@@ -1,0 +1,16 @@
+{
+	"OutputFiles": [
+		"Module.OWL360Camera.1.cpp.obj",
+		"Module.OWL360Camera.2.cpp.obj",
+		"OWL360CamCapture.cpp.obj",
+		"OWL360CameraModule.cpp.obj",
+		"OWL360CaptureComponent.cpp.obj",
+		"OWL360PreviewCamComponent.cpp.obj",
+		"OWLFaceCrop.cpp.obj",
+		"OWLMultiRotator.cpp.obj",
+		"OWLFaceControlCustomisation.cpp.obj",
+		"OWLMultiRotatorCustomisation.cpp.obj",
+		"OWL360PostProcessSettings.cpp.obj",
+		"PostProcessHelpers.cpp.obj"
+	]
+}
