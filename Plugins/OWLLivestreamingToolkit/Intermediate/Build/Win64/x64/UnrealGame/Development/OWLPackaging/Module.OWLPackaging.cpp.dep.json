@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrproj\\summer2026research\\plugins\\owllivestreamingtoolkit\\intermediate\\build\\win64\\x64\\unrealgame\\development\\owlpackaging\\module.owlpackaging.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrproj\\summer2026research\\intermediate\\build\\win64\\x64\\summer2026research\\development\\engine\\sharedpch.engine.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrproj\\summer2026research\\plugins\\owllivestreamingtoolkit\\intermediate\\build\\win64\\x64\\unrealgame\\development\\owlpackaging\\definitions.owlpackaging.h",
+            "d:\\unrproj\\summer2026research\\plugins\\owllivestreamingtoolkit\\source\\owlpackaging\\private\\owlpackagingdata.cpp",
+            "d:\\unrproj\\summer2026research\\plugins\\owllivestreamingtoolkit\\source\\owlpackaging\\public\\owlpackagingdata.h",
+            "d:\\unrproj\\summer2026research\\plugins\\owllivestreamingtoolkit\\source\\owlpackaging\\private\\owlpackagingmodule.cpp",
+            "d:\\unrproj\\summer2026research\\plugins\\owllivestreamingtoolkit\\source\\owlpackaging\\public\\owlpackagingmodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
